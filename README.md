@@ -35,7 +35,7 @@
 # My Design
 The screen size is 18'x12'
 
-
+![](https://github.com/melodyortega/p1.Melody.Ortega/blob/main/myDesign.png)
 
 
 
