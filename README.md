@@ -37,7 +37,8 @@ The screen size is 18'x12'
 
 ![](https://github.com/melodyortega/p1.Melody.Ortega/blob/main/p1.Melody.Ortega.myDesign.gif)
 
-![](https://github.com/melodyortega/p1.Melody.Ortega/blob/main/p1.Melody.Ortega.myDesignVid.mov)
+
+https://user-images.githubusercontent.com/114363920/194352472-2fd85eb2-0619-4e8e-ba9d-450e1d300c61.mov
 
 
 
