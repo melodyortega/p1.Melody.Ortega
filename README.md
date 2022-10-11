@@ -29,7 +29,7 @@
 # Common Mistakes
 1. Thinking M is the first level and not G
 
-![](https://github.com/melodyortega/p1.Melody.Ortega/blob/main/p1MelodyOrtega.png)
+![](https://github.com/melodyortega/p1.Melody.Ortega/blob/main/p1.Melody.Ortega.Sketch.jpg)
 # Sketch
 
 # My Design
